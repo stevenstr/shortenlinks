@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	gin "github.com/gin-gonic/gin"
+	"github.com/gin-gonic/gin"
 )
 
 type OrigStorage struct {
